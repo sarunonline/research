@@ -52,4 +52,5 @@ Overall, the manuscript discusses the Samarium oxide doping in the Calcium Coppe
 - There is a large difference in the activation energies obtained from conductivity and relaxation (since both occur due to similar mechanisms), even if the trend remains the same. ***This needs to be discussed***.
 - The manuscript does not describe the discussion on the conduction mechanism as the short-range motion of charge carriers based on the difference in peak frequencies. ***Needs revision***.
 
-- Data Availability: It is mentioned that "No data were used for the research described in the article.". The meaning is not clear. It should be something like "The raw data used in the present research work will be made available on request to authors." ***It needs correction***.
+# Data Availability: 
+- It is mentioned that "No data were used for the research described in the article.". The meaning is not clear. It should be something like "The raw data used in the present research work will be made available on request to authors." ***It needs correction***.
