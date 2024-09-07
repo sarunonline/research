@@ -1,2 +1,2 @@
-# research
-Important Research methods are given here
+# Research Tips
+Important Research tips are listed here.
